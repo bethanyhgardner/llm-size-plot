@@ -1,0 +1,205 @@
+include,year,arxiv_date,company,family,name,version,parameters,doi,docs,card_repo
+NA,2019,2019-10-29T00:00:00Z,Meta,BART,BART,Base,140M,10.48550/arXiv.1910.13461,https://huggingface.co/docs/transformers/en/model_doc/bart,https://github.com/facebookresearch/fairseq/tree/main/examples/bart#pre-trained-models
+x,2019,2019-10-29T00:00:00Z,Meta,BART,BART,Large,400M,NA,NA,NA
+NA,2019,2019-09-26T00:00:00Z,Google,BERT,ALBERT,Base,12M,10.48550/arXiv.1909.11942,https://huggingface.co/docs/transformers/en/model_doc/albert,https://github.com/google-research/ALBERT
+NA,2019,2019-09-26T00:00:00Z,Google,BERT,ALBERT,Large,18M,NA,NA,NA
+NA,2019,2019-09-26T00:00:00Z,Google,BERT,ALBERT,XLarge,60M,NA,NA,NA
+x,2019,2019-09-26T00:00:00Z,Google,BERT,ALBERT,XXLarge,235M,NA,NA,NA
+NA,2018,2018-10-11T00:00:00Z,Google,BERT,BERT,Base,110M,10.48550/arXiv.1810.04805,https://huggingface.co/docs/transformers/en/model_doc/bert,https://github.com/google-research/bert?tab=readme-ov-file#pre-trained-models
+x,2018,2018-10-11T00:00:00Z,Google,BERT,BERT,Large,340M,NA,NA,NA
+x,2020,2020-06-05T00:00:00Z,Other Company (Microsoft),BERT,DeBERTa,DeBERTa,1.5B,10.48550/arXiv.2006.03654,https://huggingface.co/docs/transformers/en/model_doc/deberta,https://github.com/microsoft/DeBERTa?tab=readme-ov-file#pre-trained-models
+NA,2019,2019-07-26T00:00:00Z,Meta,BERT,RoBERTa,Base,125M,10.48550/arXiv.1907.11692,https://huggingface.co/docs/transformers/en/model_doc/roberta,https://github.com/facebookresearch/fairseq/tree/main/examples/roberta#pre-trained-models
+NA,2019,2019-07-26T00:00:00Z,Meta,BERT,RoBERTa,Large,355M,NA,NA,NA
+NA,2022,2022-11-09T00:00:00Z,Open Source/Academic,BLOOM,BLOOM,560M,560M,10.48550/arXiv.2211.05100,https://huggingface.co/docs/transformers/en/model_doc/bloom,NA
+NA,2022,2022-11-09T00:00:00Z,Open Source/Academic,BLOOM,BLOOM,1.1B,1.1B,NA,NA,NA
+NA,2022,2022-11-09T00:00:00Z,Open Source/Academic,BLOOM,BLOOM,1.7B,1.7B,NA,NA,NA
+NA,2022,2022-11-09T00:00:00Z,Open Source/Academic,BLOOM,BLOOM,3B,3B,NA,NA,NA
+NA,2022,2022-11-09T00:00:00Z,Open Source/Academic,BLOOM,BLOOM,7.1B,7.1B,NA,NA,NA
+x,2022,2022-11-09T00:00:00Z,Open Source/Academic,BLOOM,BLOOM,176B,176B,NA,NA,NA
+x,2022,2022-03-29T00:00:00Z,Google,Chinchilla,Chinchilla,Predicted compute-optimal,70B,10.48550/arXiv.2203.15556,NA,NA
+NA,2023,2023-03-14T00:00:00Z,Other Company (Anthropic),Claude,Claude 1,Claude 1,?,NA,https://www.anthropic.com/news/introducing-claude,NA
+NA,2023,2023-03-14T00:00:00Z,Other Company (Anthropic),Claude,Claude 1,Claude 1 Instant,?,NA,NA,NA
+NA,2023,2023-07-11T00:00:00Z,Other Company (Anthropic),Claude,Claude 2,Claude 2,?,NA,https://www.anthropic.com/news/claude-2,NA
+NA,2024,2024-03-04T00:00:00Z,Other Company (Anthropic),Claude,Claude 3,Haiku,?,NA,https://www.anthropic.com/news/claude-3-family,NA
+NA,2024,2024-03-04T00:00:00Z,Other Company (Anthropic),Claude,Claude 3,Sonnet,?,NA,NA,NA
+NA,2024,2024-03-04T00:00:00Z,Other Company (Anthropic),Claude,Claude 3,Opus,?,NA,NA,NA
+NA,2022,2022-03-25T00:00:00Z,Other Company (Salesforce),CodeGen,CodeGen1,350M,350M,10.48550/arXiv.2203.13474,https://huggingface.co/docs/transformers/en/model_doc/codegen,https://github.com/salesforce/codegen?tab=readme-ov-file
+NA,2022,2022-03-25T00:00:00Z,Other Company (Salesforce),CodeGen,CodeGen1,2.7B,2.7B,NA,NA,NA
+NA,2022,2022-03-25T00:00:00Z,Other Company (Salesforce),CodeGen,CodeGen1,6.1B,6.1B,NA,NA,NA
+NA,2022,2022-03-25T00:00:00Z,Other Company (Salesforce),CodeGen,CodeGen1,16.1B,16.1B,NA,NA,NA
+NA,2023,2023-05-03T00:00:00Z,Other Company (Salesforce),CodeGen,CodeGen2,1B,1B,10.48550/arXiv.2305.02309,https://huggingface.co/docs/transformers/en/model_doc/codegen,https://github.com/salesforce/codegen?tab=readme-ov-file
+NA,2023,2023-05-03T00:00:00Z,Other Company (Salesforce),CodeGen,CodeGen2,3.7B,3B,NA,NA,NA
+NA,2023,2023-05-03T00:00:00Z,Other Company (Salesforce),CodeGen,CodeGen2,7B,7B,NA,NA,NA
+NA,2023,2023-05-03T00:00:00Z,Other Company (Salesforce),CodeGen,CodeGen2,16B,16B,NA,NA,NA
+x,2024,2024-03-27T00:00:00Z,Other Company (Mosaic AI/Databricks),DBRX,DBRX,DBRX,132B,NA,https://huggingface.co/docs/transformers/en/model_doc/dbrx,https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm
+NA,2024,2024-01-25T00:00:00Z,Other Company (Deepseek AI),DeepSeek-Coder,DeepSeek-Coder,1.3B,1.3B,10.48550/arXiv.2401.14196,https://huggingface.co/collections/deepseek-ai/deepseek-coder-65f295d7d8a0a29fe39b4ec4,https://github.com/deepseek-ai/DeepSeek-Coder
+NA,2024,2024-01-25T00:00:00Z,Other Company (Deepseek AI),DeepSeek-Coder,DeepSeek-Coder,5.7B,5.7B,NA,NA,NA
+NA,2024,2024-01-25T00:00:00Z,Other Company (Deepseek AI),DeepSeek-Coder,DeepSeek-Coder,6.7B,6.7B,NA,NA,NA
+NA,2024,2024-01-25T00:00:00Z,Other Company (Deepseek AI),DeepSeek-Coder,DeepSeek-Coder,33B,33B,NA,NA,NA
+NA,2023,2023-12-31T00:00:00Z,Other Company (JP Morgan),DocLLM,DocLLM,1B,1B,10.48550/arXiv.2401.00908,https://github.com/dswang2011/DocLLM,NA
+NA,2023,2023-12-31T00:00:00Z,Other Company (JP Morgan),DocLLM,DocLLM,7B,7B,NA,NA,NA
+x,2019,2019-04-19T00:00:00Z,Other Company (Baidu),ERNIE,ERNIE 1.0,Base,114M,10.48550/arXiv.1904.09223,https://aclanthology.org/P19-1139/,https://github.com/PaddlePaddle/ERNIE/tree/repro
+NA,2019,2019-07-29T00:00:00Z,Other Company (Baidu),ERNIE,ERNIE 2.0,Base,?,10.48550/arXiv.1907.12412,https://huggingface.co/docs/transformers/en/model_doc/ernie,https://github.com/PaddlePaddle/ERNIE/tree/repro
+NA,2019,2019-07-29T00:00:00Z,Other Company (Baidu),ERNIE,ERNIE 2.0,Large,?,NA,NA,NA
+NA,2021,2021-06-04T00:00:00Z,Other Company (Baidu),ERNIE,ERNIE 3.0,Tiny,109M,10.48550/arXiv.2106.02241,https://huggingface.co/docs/transformers/en/model_doc/ernie,https://huggingface.co/nghuyong
+NA,2021,2021-07-05T00:00:00Z,Other Company (Baidu),ERNIE,ERNIE 3.0,Base,10B,10.48550/arXiv.2107.02137,NA,NA
+x,2021,2021-12-23T00:00:00Z,Other Company (Baidu),ERNIE,ERNIE 3.0,Titan,260B,10.48550/arXiv.2112.12731,NA,NA
+NA,2023,2023-10-17T00:00:00Z,Other Company (Baidu),ERNIE,ERNIE 4.0,Base,?,NA,https://apnews.com/article/baidu-china-artificial-ernie-chatgpt-e7fa36ad28215db42f720a3ac028e2c4,NA
+NA,2020,2020-10-23T00:00:00Z,Other Company (Baidu),ERNIE,ERNIE-Gram,Base,110M,10.48550/arXiv.2010.12148,https://huggingface.co/docs/transformers/en/model_doc/ernie,https://github.com/PaddlePaddle/ERNIE/tree/repro
+NA,2023,2023-11-28T00:00:00Z,Other Company (TII AI),Falcon,Falcon,7B,7B,10.48550/arXiv.2311.16867,https://huggingface.co/docs/transformers/en/model_doc/falcon,https://huggingface.co/tiiuae/falcon-7b
+NA,2023,2023-11-28T00:00:00Z,Other Company (TII AI),Falcon,Falcon,40B,40B,NA,NA,https://huggingface.co/tiiuae/falcon-40b
+x,2023,2023-11-28T00:00:00Z,Other Company (TII AI),Falcon,Falcon,180B,180B,NA,NA,https://huggingface.co/tiiuae/falcon-180b
+NA,2022,2022-10-20T00:00:00Z,Google,FLAN,FLAN-T5,Small,80M,10.48550/arXiv.2210.11416,https://huggingface.co/docs/transformers/en/model_doc/flan-t5,https://github.com/google-research/FLAN/tree/main
+NA,2022,2022-10-20T00:00:00Z,Google,FLAN,FLAN-T5,Base,250M,NA,NA,NA
+NA,2022,2022-10-20T00:00:00Z,Google,FLAN,FLAN-T5,Large,780M,NA,NA,NA
+NA,2022,2022-10-20T00:00:00Z,Google,FLAN,FLAN-T5,XL,3B,NA,NA,NA
+x,2022,2022-10-20T00:00:00Z,Google,FLAN,FLAN-T5,XXL,11B,NA,NA,NA
+NA,2022,2022-10-20T00:00:00Z,Google,FLAN,Flan-PaLM,8B,8B,NA,NA,NA
+NA,2022,2022-10-20T00:00:00Z,Google,FLAN,Flan-PaLM,62B,62B,NA,NA,NA
+NA,2022,2022-10-20T00:00:00Z,Google,FLAN,Flan-PaLM,540B,540B,NA,NA,NA
+NA,2022,2022-10-20T00:00:00Z,Google,FLAN,Flan-cont-PaLM,62B,62B,NA,NA,NA
+x,2022,2022-10-20T00:00:00Z,Google,FLAN,Flan-U-PaLM,540B,540B,NA,NA,NA
+NA,2022,2022-11-16T00:00:00Z,Meta,Galactica,Galactica,Mini,125M,10.48550/arXiv.2211.09085,NA,https://github.com/paperswithcode/galai/blob/main/docs/model_card.md
+NA,2022,2022-11-16T00:00:00Z,Meta,Galactica,Galactica,Base,1.3B,NA,NA,NA
+NA,2022,2022-11-16T00:00:00Z,Meta,Galactica,Galactica,Standard,6.7B,NA,NA,NA
+NA,2022,2022-11-16T00:00:00Z,Meta,Galactica,Galactica,Large,30B,NA,NA,NA
+x,2022,2022-11-16T00:00:00Z,Meta,Galactica,Galactica,Huge,120B,NA,NA,NA
+NA,2024,2024-03-13T00:00:00Z,Google,Gemini,Gemma,2B,2B,10.48550/arXiv.2403.08295,https://huggingface.co/docs/transformers/en/model_doc/gemma,https://github.com/google-deepmind/gemma
+x,2024,2024-03-13T00:00:00Z,Google,Gemini,Gemma,7B,7B,NA,NA,NA
+x,2023,2023-12-19T00:00:00Z,Google,Gemini,Gemini 1,Nano-1,1.8B,10.48550/arXiv.2312.11805,NA,https://github.com/google-gemini/generative-ai-python
+NA,2023,2023-12-19T00:00:00Z,Google,Gemini,Gemini 1,Nano-1,3.25B,NA,NA,NA
+NA,2023,2023-12-19T00:00:00Z,Google,Gemini,Gemini 1,Pro,?,NA,NA,NA
+NA,2024,2023-12-19T00:00:00Z,Google,Gemini,Gemini 1,Ultra,?,NA,NA,NA
+NA,2024,2024-03-08T00:00:00Z,Google,Gemini,Gemini 1.5,Ultra,?,10.48550/arXiv.2403.05530,NA,https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/
+NA,2021,2021-12-13T00:00:00Z,Other Company (Finch AI),GlaM,GlaM,0.1B,130M,10.48550/arXiv.2112.06905,https://huggingface.co/FinchResearch/GLaM/tree/main,NA
+NA,2021,2021-12-13T00:00:00Z,Other Company (Finch AI),GlaM,GlaM,0.1B/64E,1.9B,NA,NA,NA
+NA,2021,2021-12-13T00:00:00Z,Other Company (Finch AI),GlaM,GlaM,1.7B,1.7B,NA,NA,NA
+NA,2021,2021-12-13T00:00:00Z,Other Company (Finch AI),GlaM,GlaM,1.7B/32E,20B,NA,NA,NA
+NA,2021,2021-12-13T00:00:00Z,Other Company (Finch AI),GlaM,GlaM,1.7B/64E,27B,NA,NA,NA
+NA,2021,2021-12-13T00:00:00Z,Other Company (Finch AI),GlaM,GlaM,1.7B/128E,53B,NA,NA,NA
+NA,2021,2021-12-13T00:00:00Z,Other Company (Finch AI),GlaM,GlaM,1.7B/256E,105B,NA,NA,NA
+NA,2021,2021-12-13T00:00:00Z,Other Company (Finch AI),GlaM,GlaM,8B,8.7B,NA,NA,NA
+NA,2021,2021-12-13T00:00:00Z,Other Company (Finch AI),GlaM,GlaM,8B/64E,143B,NA,NA,NA
+NA,2021,2021-12-13T00:00:00Z,Other Company (Finch AI),GlaM,GlaM,137B,137B,NA,NA,NA
+x,2021,2021-12-13T00:00:00Z,Other Company (Finch AI),GlaM,GlaM,64B/64E,1.2T,NA,NA,NA
+NA,2021,2021-12-08T00:00:00Z,Google,Gopher,Gopher,44M,44M,10.48550/arXiv.2112.11446,https://deepmind.google/discover/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval/,NA
+NA,2021,2021-12-08T00:00:00Z,Google,Gopher,Gopher,117M,117M,NA,NA,NA
+NA,2021,2021-12-08T00:00:00Z,Google,Gopher,Gopher,417M,417M,NA,NA,NA
+NA,2021,2021-12-08T00:00:00Z,Google,Gopher,Gopher,1.4B,1.4B,NA,NA,NA
+NA,2021,2021-12-08T00:00:00Z,Google,Gopher,Gopher,7.1B,7.1B,NA,NA,NA
+x,2021,2021-12-08T00:00:00Z,Google,Gopher,Gopher,280B,280B,NA,NA,NA
+NA,2021,2021-07-07T00:00:00Z,OpenAI,GPT,Codex,12M,12M,10.48550/arXiv.2107.03374,https://en.wikipedia.org/wiki/OpenAI_Codex,NA
+NA,2021,2021-07-07T00:00:00Z,OpenAI,GPT,Codex,25M,25M,NA,NA,NA
+NA,2021,2021-07-07T00:00:00Z,OpenAI,GPT,Codex,42M,42M,NA,NA,NA
+NA,2021,2021-07-07T00:00:00Z,OpenAI,GPT,Codex,85M,85M,NA,NA,NA
+NA,2021,2021-07-07T00:00:00Z,OpenAI,GPT,Codex,300M,300M,NA,NA,NA
+NA,2021,2021-07-07T00:00:00Z,OpenAI,GPT,Codex,679M,679M,NA,NA,NA
+NA,2021,2021-07-07T00:00:00Z,OpenAI,GPT,Codex,2.5B,2.5B,NA,NA,NA
+NA,2021,2021-07-07T00:00:00Z,OpenAI,GPT,Codex,12B,12B,NA,NA,NA
+x,2018,2018-06-11T00:00:00Z,OpenAI,GPT,GPT-1,GPT-1,120M,-,https://huggingface.co/docs/transformers/en/model_doc/openai-gpt,https://github.com/openai/finetune-transformer-lm
+NA,2019,2019-02-14T00:00:00Z,OpenAI,GPT,GPT-2,Small,124M,-,https://huggingface.co/docs/transformers/en/model_doc/gpt2,https://github.com/openai/gpt-2/blob/master/model_card.md
+NA,2019,2019-02-14T00:00:00Z,OpenAI,GPT,GPT-2,Medium,355M,NA,NA,NA
+NA,2019,2019-02-14T00:00:00Z,OpenAI,GPT,GPT-2,Large,774B,NA,NA,NA
+x,2019,2019-02-14T00:00:00Z,OpenAI,GPT,GPT-2,XLarge,1.5B,NA,NA,NA
+NA,2020,2020-05-28T00:00:00Z,OpenAI,GPT,GPT-3,Small,125M,10.48550/arXiv.2005.14165,https://en.wikipedia.org/wiki/GPT-3,https://github.com/openai/gpt-3/blob/master/model-card.md
+NA,2020,2020-05-28T00:00:00Z,OpenAI,GPT,GPT-3,Medium (ada),350M,NA,NA,NA
+NA,2020,2020-05-28T00:00:00Z,OpenAI,GPT,GPT-3,Large,760M,NA,NA,NA
+NA,2020,2020-05-28T00:00:00Z,OpenAI,GPT,GPT-3,XL (babbage),1.3B,NA,NA,NA
+NA,2020,2020-05-28T00:00:00Z,OpenAI,GPT,GPT-3,2.7B,2.7B,NA,NA,NA
+NA,2020,2020-05-28T00:00:00Z,OpenAI,GPT,GPT-3,6.7B (curie),6.7B,NA,NA,NA
+NA,2020,2020-05-28T00:00:00Z,OpenAI,GPT,GPT-3,13B,13B,NA,NA,NA
+x,2020,2020-05-28T00:00:00Z,OpenAI,GPT,GPT-3,175B (davinci),175B,NA,NA,NA
+x,2023,2023-03-15T00:00:00Z,OpenAI,GPT,GPT-4,1.76T,1.76T,10.48550/arXiv.2303.08774,https://en.wikipedia.org/wiki/GPT-4,NA
+NA,2021,2021-12-17T00:00:00Z,OpenAI,GPT,WebGPT,760M,760M,10.48550/arXiv.2112.09332,NA,NA
+NA,2021,2021-12-17T00:00:00Z,OpenAI,GPT,WebGPT,13B,13B,NA,NA,NA
+NA,2021,2021-12-17T00:00:00Z,OpenAI,GPT,WebGPT,175B,175B,NA,NA,NA
+NA,2023,2023-11-05T00:00:00Z,Other Company (Twitter/X),Grok,Grok-0,33B,33B,NA,https://grok0.pro/,NA
+x,2024,2024-03-13T00:00:00Z,Other Company (Twitter/X),Grok,Grok-1,314B,314B,NA,https://x.ai/blog/grok-os,https://github.com/xai-org/grok-1
+x,2020,2020-06-30T00:00:00Z,Google,GShard,GShard,Largest,600B,10.48550/arXiv.2006.16668,NA,NA
+x,2024,2024-03-28T00:00:00Z,Other Company (AI21 Labs),Jamba,Jamba,Base,52B,10.48550/arXiv.2403.19887,https://huggingface.co/ai21labs/Jamba-v0.1,NA
+NA,2021,2021-08-11T00:00:00Z,Other Company (AI21 Labs),Jurassic,Jurassic-1,Large,7B,NA,https://www.ai21.com/blog/announcing-ai21-studio-and-jurassic-1,NA
+x,2021,2021-08-11T00:00:00Z,Other Company (AI21 Labs),Jurassic,Jurassic-1,Jumbo,178B,NA,NA,NA
+NA,2023,2023-03-09T00:00:00Z,Other Company (AI21 Labs),Jurassic,Jurassic-2,Light,?,NA,https://docs.ai21.com/docs/jurassic-2-models,NA
+NA,2023,2023-03-09T00:00:00Z,Other Company (AI21 Labs),Jurassic,Jurassic-2,Mid,?,NA,NA,NA
+NA,2023,2023-03-09T00:00:00Z,Other Company (AI21 Labs),Jurassic,Jurassic-2,Ultra,?,NA,NA,NA
+x,2023,2023-03-13T00:00:00Z,Open Source/Academic,LLaMA,Alpaca,7B,7B,NA,https://crfm.stanford.edu/2023/03/13/alpaca.html,https://github.com/tatsu-lab/stanford_alpaca/blob/main/model_card.md
+NA,2023,2023-08-24T00:00:00Z,Meta,LLaMA,Code Llama,7B,7B,10.48550/arXiv.2308.12950,https://huggingface.co/docs/transformers/en/model_doc/code_llama,https://huggingface.co/meta-llama/CodeLlama-7b-hf
+NA,2023,2023-08-24T00:00:00Z,Meta,LLaMA,Code Llama,13B,13B,NA,NA,https://huggingface.co/meta-llama/CodeLlama-13b-hf
+NA,2023,2023-08-24T00:00:00Z,Meta,LLaMA,Code Llama,34B,34B,NA,NA,https://huggingface.co/meta-llama/CodeLlama-34b-hf
+NA,2023,2023-08-24T00:00:00Z,Meta,LLaMA,Code Llama,70B,70B,NA,NA,https://huggingface.co/meta-llama/CodeLlama-70b-hf
+NA,2023,2023-03-30T00:00:00Z,Open Source/Academic,LLaMA,Koala,7B,7B,NA,https://bair.berkeley.edu/blog/2023/04/03/koala/,https://huggingface.co/TheBloke/koala-7B-HF
+NA,2023,2023-03-30T00:00:00Z,Open Source/Academic,LLaMA,Koala,13B,13B,NA,NA,https://huggingface.co/TheBloke/koala-13B-HF
+x,2023,2023-02-27T00:00:00Z,Meta,LLaMA,LLaMA1,7B,6.7B,10.48550/arXiv.2302.13971,https://huggingface.co/docs/transformers/en/model_doc/llama,https://github.com/meta-llama/llama/blob/main/MODEL_CARD.md
+NA,2023,2023-02-27T00:00:00Z,Meta,LLaMA,LLaMA1,13B,13B,NA,NA,NA
+NA,2023,2023-02-27T00:00:00Z,Meta,LLaMA,LLaMA1,33B,32.5B,NA,NA,NA
+NA,2023,2023-02-27T00:00:00Z,Meta,LLaMA,LLaMA1,65B,65.2B,NA,NA,NA
+NA,2023,2023-07-18T00:00:00Z,Meta,LLaMA,LLaMA2,7B,6.7B,10.48550/arXiv.2307.09288,https://huggingface.co/docs/transformers/en/model_doc/llama2,https://github.com/meta-llama/llama/blob/main/MODEL_CARD.md
+NA,2023,2023-07-18T00:00:00Z,Meta,LLaMA,LLaMA2,13B,13B,NA,NA,NA
+NA,2023,2023-07-18T00:00:00Z,Meta,LLaMA,LLaMA2,34B,34B,NA,NA,NA
+x,2023,2023-07-18T00:00:00Z,Meta,LLaMA,LLaMA2,70B,70B,NA,NA,NA
+NA,2024,2024-01-04T00:00:00Z,Other Company (Tencent ARC),LLaMA,LLaMA-Pro,8B,8.3B,10.48550/arXiv.2401.02415,https://huggingface.co/TencentARC/LLaMA-Pro-8B,https://huggingface.co/TencentARC/LLaMA-Pro-8B
+NA,2023,2023-07-06T00:00:00Z,Open Source/Academic,LLaMA,LongLLaMA,3B,3B,10.48550/arXiv.2307.03170,https://huggingface.co/syzymon/long_llama_3b,https://github.com/CStanKonrad/long_llama
+NA,2023,2023-07-06T00:00:00Z,Open Source/Academic,LLaMA,LongLLaMA,7B,7B,NA,https://huggingface.co/syzymon/long_llama_code_7b,NA
+NA,2023,2023-07-21T00:00:00Z,Other Company (Stability AI),LLaMA,Stable Beluga,1,65B,NA,https://stability.ai/news/stable-beluga-large-instruction-fine-tuned-models,https://huggingface.co/stabilityai/StableBeluga1-Delta
+NA,2023,2023-07-21T00:00:00Z,Other Company (Stability AI),LLaMA,Stable Beluga,2,70B,NA,https://stability.ai/news/stable-beluga-large-instruction-fine-tuned-models,https://huggingface.co/stabilityai/StableBeluga2
+NA,2024,2024-01-04T00:00:00Z,Open Source/Academic,LLaMA,TinyLlama,1.1B,1.1B,10.48550/arXiv.2401.02385,https://github.com/jzhang38/TinyLlama,https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0
+NA,2023,2023-06-09T00:00:00Z,Open Source/Academic,LLaMA,Vicuna,7B,7B,10.48550/arXiv.2306.05685,https://lmsys.org/blog/2023-03-30-vicuna/,https://huggingface.co/lmsys/vicuna-7b-v1.5
+NA,2023,2023-06-09T00:00:00Z,Open Source/Academic,LLaMA,Vicuna,13B,13B,NA,NA,https://huggingface.co/lmsys/vicuna-13b-v1.5
+x,2023,2023-06-09T00:00:00Z,Open Source/Academic,LLaMA,Vicuna,33B,33B,NA,NA,https://huggingface.co/lmsys/vicuna-33b-v1.3
+NA,2022,2022-01-20T00:00:00Z,Google,LaMDA,LaMDA,2B,2B,10.48550/arXiv.2201.08239,https://research.google/blog/lamda-towards-safe-grounded-and-high-quality-dialog-models-for-everything/,NA
+NA,2022,2022-01-20T00:00:00Z,Google,LaMDA,LaMDA,8B,8B,NA,NA,NA
+x,2022,2022-01-20T00:00:00Z,Google,LaMDA,LaMDA,137B,137B,NA,NA,NA
+x,2021,2021-05-31T00:00:00Z,Other Company (Alibaba),M6,M6-T,T,1T,10.48550/arXiv.2105.15082,NA,NA
+NA,2022,2022-01-28T00:00:00Z,Other Company (Microsoft/NVIDIA),Megatron,MT-NLG,530B,530B,10.48550/arXiv.2201.11990,NA,NA
+NA,2019,2019-09-17T00:00:00Z,Other Company (NVIDIA),Megatron,Megatron-LM,Megatron-GPT,8.3B,10.48550/arXiv.1909.08053,https://huggingface.co/docs/transformers/en/model_doc/megatron_gpt2,https://github.com/NVIDIA/Megatron-LM
+NA,2019,2019-09-17T00:00:00Z,Other Company (NVIDIA),Megatron,Megatron-LM,Megaton-BERT,3.9B,NA,https://huggingface.co/docs/transformers/en/model_doc/megatron-bert,NA
+x,2023,2023-10-10T00:00:00Z,Other Company (Mistral AI),Mistral,Mistral,7B,7.3B,10.48550/arXiv.2310.06825,https://huggingface.co/docs/transformers/en/model_doc/mistral,https://huggingface.co/mistralai/Mistral-7B-v0.1
+NA,2023,2023-12-11T00:00:00Z,Other Company (Mistral AI),Mixtral,Mixtral,8x7B,46.7B,https://mistral.ai/news/mixtral-of-experts/,https://huggingface.co/docs/transformers/en/model_doc/mixtral,https://huggingface.co/mistralai/Mixtral-8x7B-v0.1
+x,2024,2023-12-11T00:00:00Z,Other Company (Mistral AI),Mixtral,Mixtral,8x22B,141B,https://mistral.ai/news/mixtral-8x22b/,https://huggingface.co/docs/transformers/en/model_doc/mixtral,https://huggingface.co/mistralai/Mixtral-8x22B-v0.1
+NA,2023,2023-03-06T00:00:00Z,Other Company (Mosaic AI/Databricks),MPT,MPT,7B,7B,10.48550/arXiv.2303.02861,https://huggingface.co/docs/transformers/en/model_doc/mpt,https://github.com/mosaicml/llm-foundry/tree/main
+NA,2023,2023-03-06T00:00:00Z,Other Company (Mosaic AI/Databricks),MPT,MPT,30B,30B,NA,NA,NA
+NA,2023,2023-06-05T00:00:00Z,Other Company (Microsoft),Orca,Orca,13B,13B,10.48550/arXiv.2306.02707,https://www.microsoft.com/en-us/research/project/orca/,NA
+NA,2024,2023-11-18T00:00:00Z,Other Company (Microsoft),Orca,Orca-2,7B,7B,10.48550/arXiv.2311.11045,https://www.microsoft.com/en-us/research/project/orca/,https://huggingface.co/microsoft/Orca-2-7b
+x,2024,2023-11-18T00:00:00Z,Other Company (Microsoft),Orca,Orca-2,13B,13B,NA,NA,https://huggingface.co/microsoft/Orca-2-13b
+NA,2022,2023-05-10T00:00:00Z,Google,PaLM,Med-PaLM,540B,540B,10.48550/arXiv.2212.13138,https://www.nature.com/articles/s41586-023-06291-2,NA
+NA,2023,2023-05-16T00:00:00Z,Google,PaLM,Med-PaLM 2,NULL,?,10.48550/arXiv.2305.09617,NA,NA
+x,2022,2022-04-05T00:00:00Z,Google,PaLM,PaLM,8B,8B,10.48550/arXiv.2204.02311,https://research.google/blog/pathways-language-model-palm-scaling-to-540-billion-parameters-for-breakthrough-performance/,NA
+NA,2022,2022-04-05T00:00:00Z,Google,PaLM,PaLM,62B,62B,NA,NA,NA
+NA,2022,2022-04-05T00:00:00Z,Google,PaLM,PaLM,540B,540B,NA,NA,NA
+NA,2023,2023-05-10T00:00:00Z,Google,PaLM,PaLM-2,340B,340B,NA,https://ai.google/discover/palm2/,https://www.cnbc.com/2023/05/16/googles-palm-2-uses-nearly-five-times-more-text-data-than-predecessor.html
+NA,2023,2023-03-06T00:00:00Z,Google,PaLM,PaLM-E,12B,12B,10.48550/arXiv.2303.03378,https://palm-e.github.io/,https://palm-e.github.io/
+NA,2023,2023-03-06T00:00:00Z,Google,PaLM,PaLM-E,84B,84B,NA,NA,NA
+x,2023,2023-03-06T00:00:00Z,Google,PaLM,PaLM-E,562B,562B,NA,NA,NA
+NA,2022,2022-10-20T00:00:00Z,Google,PaLM,U-PaLM,8B,8B,10.48550/arXiv.2210.11399,NA,NA
+NA,2022,2022-10-20T00:00:00Z,Google,PaLM,U-PaLM,62B,62B,NA,NA,NA
+NA,2022,2022-10-20T00:00:00Z,Google,PaLM,U-PaLM,540B,540B,NA,NA,NA
+x,2021,2021-04-26T00:00:00Z,Other Company (Huawei),PanGu,PanGu-α,Alpha,200B,10.48550/arXiv.2104.12369,NA,NA
+x,2023,2023-03-20T00:00:00Z,Other Company (Huawei),PanGu,PanGu-Σ,Sigma,1.085T,10.48550/arXiv.2303.10845,NA,NA
+NA,2023,2023-06-20T00:00:00Z,Other Company (Microsoft),Phi,Phi 1,Phi 1,1.3B,10.48550/arXiv.2306.11644,https://huggingface.co/docs/transformers/en/model_doc/phi,NA
+NA,2023,2023-06-20T00:00:00Z,Other Company (Microsoft),Phi,Phi 1,Phi 1 Small,350M,NA,NA,NA
+NA,2021,2021-12-08T00:00:00Z,Google,RETRO,RETRO,132M,132M,10.48550/arXiv.2112.04426,NA,NA
+NA,2021,2021-12-08T00:00:00Z,Google,RETRO,RETRO,368M,368M,NA,NA,NA
+NA,2021,2021-12-08T00:00:00Z,Google,RETRO,RETRO,1.3B,1.3B,NA,NA,NA
+x,2021,2021-12-08T00:00:00Z,Google,RETRO,RETRO,7.0B,7B,NA,NA,NA
+NA,2023,2023-09-29T00:00:00Z,Other Company (Stability AI),StableLM,StableLM,StableLM,3B,NA,https://huggingface.co/docs/transformers/en/model_doc/stablelm,https://stability.wandb.io/stability-llm/stable-lm/reports/StableLM-3B-4E1T--VmlldzoyMjU4?accessToken=u3zujipenkx5g7rtcj9qojjgxpconyjktjkli2po09nffrffdhhchq045vp0wyfo
+NA,2023,2023-05-09T00:00:00Z,Open Source/Academic,StarCoder,StarCoder,Base,15.5B,10.48550/arXiv.2305.06161,https://huggingface.co/docs/transformers/en/model_doc/codegen,https://github.com/bigcode-project/starcoder
+NA,2024,2024-02-29T00:00:00Z,Open Source/Academic,StarCoder,StarCoder2,3B,3B,10.48550/arXiv.2402.19173,https://huggingface.co/docs/transformers/en/model_doc/starcoder2,https://github.com/bigcode-project/starcoder2
+NA,2024,2024-02-29T00:00:00Z,Open Source/Academic,StarCoder,StarCoder2,7B,7B,NA,NA,NA
+NA,2024,2024-02-29T00:00:00Z,Open Source/Academic,StarCoder,StarCoder2,15B,15B,NA,NA,NA
+NA,2020,2020-10-22T00:00:00Z,Google,T5,mT5,Small,300M,10.48550/arXiv.2010.11934,https://huggingface.co/docs/transformers/en/model_doc/mt5,https://github.com/google-research/multilingual-t5#released-model-checkpoints
+NA,2020,2020-10-22T00:00:00Z,Google,T5,mT5,Base,580M,NA,NA,NA
+NA,2020,2020-10-22T00:00:00Z,Google,T5,mT5,Large,1.2B,NA,NA,NA
+NA,2020,2020-10-22T00:00:00Z,Google,T5,mT5,XL,3.7B,NA,NA,NA
+x,2020,2020-10-22T00:00:00Z,Google,T5,mT5,XXL,13B,NA,NA,NA
+x,2021,2021-01-11T00:00:00Z,Google,T5,Switch,Switch,1.6T,10.48550/arXiv.2101.03961,https://huggingface.co/google/switch-c-2048,https://github.com/google-research/t5x
+NA,2023,2023-10-25T00:00:00Z,Open Source/Academic,T5,QMoE,QMoE,1.6T,10.48550/arXiv.2310.16795,NA,https://github.com/IST-DASLab/qmoe
+x,2019,2019-10-23T00:00:00Z,Google,T5,T5,Small,60M,10.48550/arXiv.1910.10683,https://huggingface.co/docs/transformers/en/model_doc/t5,https://github.com/google-research/text-to-text-transfer-transformer?tab=readme-ov-file#released-model-checkpoints
+NA,2019,2019-10-23T00:00:00Z,Google,T5,T5,Base,220M,NA,NA,NA
+NA,2019,2019-10-23T00:00:00Z,Google,T5,T5,Large,770M,NA,NA,NA
+NA,2019,2019-10-23T00:00:00Z,Google,T5,T5,3B,3B,NA,NA,NA
+NA,2019,2019-10-23T00:00:00Z,Google,T5,T5,11B,11B,NA,NA,NA
+NA,2019,2019-01-09T00:00:00Z,Open Source/Academic,Transformer-XL,Transformer-XL,XL,151M,10.48550/arXiv.1901.02860,https://huggingface.co/docs/transformers/en/model_doc/transfo-xl,https://github.com/kimiyoung/transformer-xl
+NA,2019,2019-06-19T00:00:00Z,Open Source/Academic,Transformer-XL,XLNet,Base,110M,10.48550/arXiv.1906.08237,https://huggingface.co/docs/transformers/en/model_doc/xlnet,https://github.com/zihangdai/xlnet/
+x,2019,2019-06-19T00:00:00Z,Open Source/Academic,Transformer-XL,XLNet,Large,340M,NA,NA,NA
+x,2023,2023-09-07T00:00:00Z,Other Company (Salesforce),XGen,XGen,Base,7B,10.48550/arXiv.2309.03450,https://huggingface.co/Salesforce/xgen-7b-4k-base,https://github.com/salesforce/xgen?tab=readme-ov-file
+x,2023,2023-10-25T00:00:00Z,Other Company (Huggingface),Zephyr,Zephyr,7B,7B,10.48550/arXiv.2310.16944,https://github.com/huggingface/alignment-handbook,https://huggingface.co/collections/HuggingFaceH4/zephyr-7b-6538c6d6d5ddd1cbb1744a66
